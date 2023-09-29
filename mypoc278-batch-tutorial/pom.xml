@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>test.practice.tutorial</groupId>
-	<artifactId>batch-tutorial</artifactId>
+	<artifactId>mypoc278-batch-tutorial</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>batch-tutorial</name>
+	<name>mypoc278-batch-tutorial</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
@@ -36,6 +36,7 @@
 			<artifactId>spring-boot-devtools</artifactId>
 			<scope>runtime</scope>
 			<optional>true</optional>
+			
 		</dependency>
 		<dependency>
 			<groupId>com.h2database</groupId>
